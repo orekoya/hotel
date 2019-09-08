@@ -1,1 +1,1 @@
-case class Hotel(val name: String, val rating: Int){}
+case class Hotel(val name: String, val rating: Int)
